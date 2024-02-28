@@ -24,3 +24,7 @@ Route::get('login', function () {
 Route::get('about', function () {
     return view('about');
 });
+
+Route::get('anim', function () {
+    return view('anim');
+});

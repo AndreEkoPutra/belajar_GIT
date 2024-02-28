@@ -1,21 +1,21 @@
 <h1>TENTANG WEBSITE</h1>
 <table border="1px">
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
+<td>Nama</td>
+<td>Mood</td>
+<td>Konten</td>
+<td>Hobi</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
+<td>Andreanus Eko Putra</td>
+<td>S</td>
+<td>Real life</td>
+<td>Si Dia</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
+<td>Dani Ali</td>
+<td>Makan</td>
+<td>Real life</td>
+<td>Food</td>
 </tr>
 </table>
